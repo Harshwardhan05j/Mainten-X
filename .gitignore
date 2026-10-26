@@ -68,14 +68,14 @@ Thumbs.db
 desktop.ini
 
 # ==========================================
-# Scratch, Legacy Drafts & Unused Artifacts
+# Scratch, Legacy Drafts & Root Clutter
 # ==========================================
 scratch/
 inspect_output.py
 patch.py
 build_notebook.py
-build_perfect_notebook.py
-validate_notebook.py
+/build_perfect_notebook.py
+/validate_notebook.py
 Machine_maintenance.ipynb
 MaintenX_executed.ipynb
 train_FD001_cleaned_named (1) (2) (2).csv
