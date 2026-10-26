@@ -1,0 +1,82 @@
+# ==========================================
+# Byte-compiled / optimized / DLL files
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ==========================================
+# C extensions & packaging
+# ==========================================
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ==========================================
+# Jupyter Notebook Checkpoints & Cache
+# ==========================================
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*-checkpoint.ipynb
+
+# ==========================================
+# Virtual Environments
+# ==========================================
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ==========================================
+# IDE & Text Editor Configs
+# ==========================================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.directory
+
+# ==========================================
+# Operating System & Cloud Sync Junk
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ==========================================
+# Scratch, Legacy Drafts & Unused Artifacts
+# ==========================================
+scratch/
+inspect_output.py
+patch.py
+build_notebook.py
+build_perfect_notebook.py
+validate_notebook.py
+Machine_maintenance.ipynb
+MaintenX_executed.ipynb
+train_FD001_cleaned_named (1) (2) (2).csv
+*.tmp

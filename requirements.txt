@@ -1,0 +1,21 @@
+# ==============================================================================
+# Mainten-X: Aircraft Predictive Maintenance System
+# Dependency Specification
+# ==============================================================================
+
+# Core Scientific Computing & Data Structures
+numpy>=1.23.0
+pandas>=1.5.0
+scipy>=1.9.0
+
+# Machine Learning & Statistical Modeling
+scikit-learn>=1.2.0
+
+# Data Visualization & Graphics
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Jupyter Interactive Environment (Optional, for running notebook)
+jupyter>=1.0.0
+ipykernel>=6.20.0
+nbformat>=5.7.0
